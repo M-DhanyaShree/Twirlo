@@ -1,4 +1,4 @@
-# Loop
+# Twirlo
 
 An endless, relaxing loop puzzle built with React, Vite, TypeScript, Tailwind CSS and Framer Motion.
 
